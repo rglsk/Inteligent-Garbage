@@ -1,7 +1,7 @@
-Inteligentna śmieciarka
+Inteligent Garbage
 =====
-Projekt zaliczeniowy na zajęcia Sztuczna Inteligencja.
+Project for Artificial Intelligence classes on AMU in Poznan.
 
-##Opis
-Zadaniem inteligentnej śmieciarki jest odbiór odpadków z domostw i dostarczenie ich na teren wysypiska.
-Agent powinien sam segregować śmieci i wyładowywać je w odpowiednim miejscu wysypiska.
+##Description
+Inteligent Garbage must receive waste from households and delivere them on landfill area.
+Agent should segregate and unload rubbish in appropriate area.
